@@ -1,0 +1,46 @@
+.card {
+    border: 1px solid black;
+    border-radius: 5px;
+    width: 360px;
+    height: 450px;
+    margin-left: 35%;
+    margin-top: 40px;
+}
+
+.email {
+    text-align: center;
+    padding: 20px;
+}
+
+#emailInput {
+
+    width: 280px;
+    height: 30px;
+    text-align: center;
+}
+
+.password {
+
+    text-align: center;
+    padding: 20px;
+}
+
+#passwordInput {
+
+    width: 280px;
+    height: 30px;
+    text-align: center;
+}
+
+.remember {
+
+    padding: 20px;
+    margin-left: 14px;
+}
+
+#btn {
+
+margin-left: 43%;
+margin-top: 60px;
+font-size: 17px;
+}
