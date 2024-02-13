@@ -1,4 +1,9 @@
+body {
+background-color: rgb(23, 50, 50);
+}
+
 .card {
+    background-color: aquamarine;
     border: 1px solid black;
     border-radius: 5px;
     width: 360px;
